@@ -1,9 +1,9 @@
 # Snake-Water-gun-game
 Snake water gun game makes in python 
 
- This is a very simply game which we can play offline mode also in our free time
+ This is a very simply game which we can play offline mode also in our free time and this game is very similar to ston-paper-scissor
  
-and this game is very similar to ston-paper-scissor. this game is  very popular in our childwood age
+ This game is  very popular in our childwood age
 
 This game is written in python programming
 
