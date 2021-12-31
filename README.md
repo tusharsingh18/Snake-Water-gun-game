@@ -8,7 +8,8 @@ This game is written in python programming
 # Working of this game
  A single player can play this game with computer in offline mode!!!!
   # Rules are --
-   . You have to type "S" for snake "W" for water and "G" for gun\n
+   . You have to type "S" for snake "W" for water and "G" for gun 
+			
    . You can play 10 time and at the last of this game you will get score out off 10!!!
    
 # Author
